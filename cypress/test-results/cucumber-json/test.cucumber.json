@@ -1,0 +1,32 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "test",
+    "line": 1,
+    "id": "test",
+    "tags": [],
+    "uri": "test.feature",
+    "elements": [
+      {
+        "id": "test;test",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Test",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 4,
+            "name": "I test s site",
+            "result": {
+              "status": "passed",
+              "duration": 270000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
